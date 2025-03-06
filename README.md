@@ -13,7 +13,7 @@
 
 ## Demo
 
-You can try the app live here: [Streamlit App Link](#https://appappunitconverter-dwsnaaq7rkycldzqh3axu9.streamlit.app/) *(Replace with your deployed app link)*
+You can try the app live here: [Streamlit App Link](https://appappunitconverter-dwsnaaq7rkycldzqh3axu9.streamlit.app/) *(Replace with your deployed app link)*
 
 ---
 
